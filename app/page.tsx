@@ -19,7 +19,7 @@ const teko = Teko({
   weight: ["400", "700"],
 })
 
-const TWEET_TEXT = "$tr is how i get my trench ratings!.";
+const TWEET_TEXT = "i got my $tr on a moon token!";
 
 const cardStyles: {
   [key: string]: {
@@ -446,7 +446,7 @@ export default function LandingPage() {
                   <span className="truncate">Share with Twitter</span>
                 </Button>
                 <Button asChild size="icon" className="rounded-full bg-white shadow-lg hover:bg-gray-200 flex-shrink-0">
-                  <a href="https://x.com/i/communities/1937196133001884048" target="_blank" rel="noopener noreferrer">
+                  <a href="https://x.com/i/communities/1938739260435145036" target="_blank" rel="noopener noreferrer">
                     <Twitter size={20} className="text-blue-400" />
                   </a>
                 </Button>
