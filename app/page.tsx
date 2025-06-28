@@ -142,7 +142,7 @@ export default function LandingPage() {
   }
 
   const handleCopy = () => {
-    navigator.clipboard.writeText("COMING SOON").then(() => {
+    navigator.clipboard.writeText("64YWoWKA3dyQuW3RSDNPDNKX9nMf8kTbvQtJDEZ8pump").then(() => {
       setIsCopied(true)
       setTimeout(() => setIsCopied(false), 2000)
     })
