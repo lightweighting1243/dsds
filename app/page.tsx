@@ -570,7 +570,7 @@ export default function LandingPage() {
             <CardContent className="relative flex items-center justify-center p-6">
               <h2 className="text-3xl font-bold text-purple-300">CA: </h2>
               <p></p>
-              <h2 className="text-3xl font-bold text-purple-300">COMING SOON</h2>
+              <h2 className="text-3xl font-bold text-purple-300">64YWoWKA3dyQuW3RSDNPDNKX9nMf8kTbvQtJDEZ8pump</h2>
               <Button size="icon" variant="ghost" className="absolute top-2 right-2 text-gray-400 hover:text-white" onClick={handleCopy}>
                 {isCopied ? <Check className="h-4 w-4" /> : <Copy className="h-4 w-4" />}
               </Button>
